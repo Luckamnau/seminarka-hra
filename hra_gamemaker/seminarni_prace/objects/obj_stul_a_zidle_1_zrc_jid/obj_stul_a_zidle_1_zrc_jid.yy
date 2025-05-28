@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_dvere_zavrene",
+  "%Name":"obj_stul_a_zidle_1_zrc_jid",
   "eventList":[],
   "managed":true,
-  "name":"obj_dvere_zavrene",
+  "name":"obj_stul_a_zidle_1_zrc_jid",
   "overriddenProperties":[],
   "parent":{
-    "name":"Ložnice objekty",
-    "path":"folders/Objects/Ložnice objekty.yy",
+    "name":"Zrcadlova jidelna objekty",
+    "path":"folders/Objects/Zrcadlova jidelna objekty.yy",
   },
   "parentObjectId":{
     "name":"obj_kolize",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"dvere_zavrene",
-    "path":"sprites/dvere_zavrene/dvere_zavrene.yy",
+    "name":"stul_a_zidle_1_zrc_jid",
+    "path":"sprites/stul_a_zidle_1_zrc_jid/stul_a_zidle_1_zrc_jid.yy",
   },
   "spriteMaskId":null,
   "visible":true,
