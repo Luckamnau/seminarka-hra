@@ -2,6 +2,8 @@
 xx = -1;
 yy = -1;
 
+is_moving = false;
+
 // Rychlost pohybu postavy
 spd = 3.5;
 

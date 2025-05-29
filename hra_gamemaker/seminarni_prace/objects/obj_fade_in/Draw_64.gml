@@ -1,0 +1,8 @@
+var w = display_get_gui_width();
+var h = display_get_gui_height();
+
+// Černý fade-in překryv
+draw_set_alpha(fade_alpha);
+draw_set_color(c_black);
+draw_rectangle(0, 0, w, h, false);
+draw_set_alpha(1);
