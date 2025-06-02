@@ -11,11 +11,13 @@
     {"name":"inst_6E66133E","path":"rooms/zrcadlova_jidelna/zrcadlova_jidelna.yy",},
     {"name":"inst_3CE701C9","path":"rooms/zrcadlova_jidelna/zrcadlova_jidelna.yy",},
     {"name":"inst_4C782508","path":"rooms/zrcadlova_jidelna/zrcadlova_jidelna.yy",},
+    {"name":"inst_5EF9DB72","path":"rooms/zrcadlova_jidelna/zrcadlova_jidelna.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Postava","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_40817C53","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_40817C53","objectId":{"name":"obj_megan","path":"objects/obj_megan/obj_megan.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.32081607,"scaleX":0.9101048,"scaleY":0.88060087,"x":1070.1223,"y":1136.1057,},
+        {"$GMRInstance":"v2","%Name":"inst_5EF9DB72","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5EF9DB72","objectId":{"name":"obj_fade_in","path":"objects/obj_fade_in/obj_fade_in.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1019.0,"y":184.0,},
       ],"layers":[],"name":"Postava","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Objekty","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_6E66133E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6E66133E","objectId":{"name":"obj_dvere_zrc_jidelna","path":"objects/obj_dvere_zrc_jidelna/obj_dvere_zrc_jidelna.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":137.0,"y":574.0,},

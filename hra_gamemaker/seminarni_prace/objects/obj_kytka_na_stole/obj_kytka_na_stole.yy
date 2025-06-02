@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_skrin_zavrena",
-  "eventList":[],
+  "%Name":"obj_kytka_na_stole",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_skrin_zavrena",
+  "name":"obj_kytka_na_stole",
   "overriddenProperties":[],
   "parent":{
-    "name":"Ložnice objekty",
-    "path":"folders/Objects/Ložnice objekty.yy",
+    "name":"Objekty na stole",
+    "path":"folders/Objects/Objekty na stole.yy",
   },
-  "parentObjectId":{
-    "name":"obj_kolize",
-    "path":"objects/obj_kolize/obj_kolize.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"skrin_zavrena",
-    "path":"sprites/skrin_zavrena/skrin_zavrena.yy",
+    "name":"kytka",
+    "path":"sprites/kytka/kytka.yy",
   },
   "spriteMaskId":null,
   "visible":true,

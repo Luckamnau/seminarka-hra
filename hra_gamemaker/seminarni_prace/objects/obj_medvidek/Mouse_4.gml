@@ -4,7 +4,7 @@ if (!ds_list_find_index(global.collected_items, item_id) != -1) {
 }
 
 // Zobrazit zprávu
-show_message("Sebral jsi: " + item_id);
+show_message("Sebral jsi medvídka.");
 
 // Zničit objekt
 instance_destroy();

@@ -15,11 +15,13 @@
     {"name":"inst_7D376478","path":"rooms/zrcadlova_chodba/zrcadlova_chodba.yy",},
     {"name":"inst_65346DDC","path":"rooms/zrcadlova_chodba/zrcadlova_chodba.yy",},
     {"name":"inst_7694DC74","path":"rooms/zrcadlova_chodba/zrcadlova_chodba.yy",},
+    {"name":"inst_6A20058F","path":"rooms/zrcadlova_chodba/zrcadlova_chodba.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Postava","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_7D488004","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7D488004","objectId":{"name":"obj_megan","path":"objects/obj_megan/obj_megan.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1050.0,"y":1222.0,},
+        {"$GMRInstance":"v2","%Name":"inst_6A20058F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6A20058F","objectId":{"name":"obj_fade_in","path":"objects/obj_fade_in/obj_fade_in.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1082.0,"y":231.0,},
       ],"layers":[],"name":"Postava","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Masky","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_7D376478","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7D376478","objectId":{"name":"obj_zluta_maska","path":"objects/obj_zluta_maska/obj_zluta_maska.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.9550321,"scaleY":0.9251969,"x":571.2805,"y":748.24805,},

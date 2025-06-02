@@ -1,4 +1,3 @@
-if (point_distance(obj_megan.x, obj_megan.y, x, y)) {
-    // Změna místnosti
-    room_goto(chodba); // Název cílové místnosti
-}
+// Spustí fade-out a pak přejde do další místnosti
+var f = instance_create_layer(0, 0, "Objekty", obj_fade_out);
+f.target_room = chodba

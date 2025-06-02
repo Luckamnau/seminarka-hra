@@ -15,7 +15,7 @@
     "name":"obj_kolize",
     "path":"objects/obj_kolize/obj_kolize.yy",
   },
-  "persistent":false,
+  "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,

@@ -1,1 +1,3 @@
-room_goto(zrcadlovy_sklep)
+// Spustí fade-out a pak přejde do další místnosti
+var f = instance_create_layer(0, 0, "Objekty", obj_fade_out);
+f.target_room = zrcadlovy_sklep

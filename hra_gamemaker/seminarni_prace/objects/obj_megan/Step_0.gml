@@ -28,38 +28,38 @@ if (xx != -1 && yy != -1) {
         // Urči směr pohybu a nastav animaci (vylepšený směr)
         var dir = point_direction(x, y, xx, yy);
 
-        if (dir > -22.5 && dir <= 22.5) {
+        if (dir > -45 && dir <= 45) {
             sprite_index = chuze_vpravo;
             last_direction = "right";
         }
-        else if (dir > 22.5 && dir <= 67.5) {
-            sprite_index = chuze_dolu;
-            last_direction = "down";
-        }
-        else if (dir > 67.5 && dir <= 112.5) {
-            sprite_index = chuze_dolu;
-            last_direction = "down";
-        }
-        else if (dir > 112.5 && dir <= 157.5) {
-            sprite_index = chuze_vlevo;
-            last_direction = "left";
-        }
-        else if (dir > 157.5 || dir <= -157.5) {
-            sprite_index = chuze_vlevo;
-            last_direction = "left";
-        }
-        else if (dir > -157.5 && dir <= -112.5) {
-            sprite_index = chuze_vlevo;
-            last_direction = "left";
-        }
-        else if (dir > -112.5 && dir <= -67.5) {
+        else if (dir > 45 && dir <= 135) {
             sprite_index = chuze_nahoru;
             last_direction = "up";
         }
-        else if (dir > -67.5 && dir <= -22.5) {
-            sprite_index = chuze_nahoru;
-            last_direction = "up";
+        //else if (dir > 67.5 && dir <= 112.5) {
+           // sprite_index = chuze_nahoru;
+           // last_direction = "up";
+       // }
+        else if (dir > 135 && dir <= 225) {
+            sprite_index = chuze_vlevo;
+            last_direction = "left";
         }
+        //else if (dir > 157.5 || dir <= -157.5) {
+            //sprite_index = chuze_vlevo;
+            //last_direction = "left";
+        //}
+        //else if (dir > -157.5 && dir <= -112.5) {
+           // sprite_index = chuze_vlevo;
+           // last_direction = "left";
+       // }
+        else if (dir > 225 && dir <= 315) {
+            sprite_index = chuze_dolu;
+            last_direction = "down";
+        }
+       // else if (dir > -67.5 && dir <= -22.5) {
+         //   sprite_index = chuze_dolu;
+          //  last_direction = "down";
+       // }
 
         // Pokud jsme dorazili téměř do cíle (blíž než spd)
         if (point_distance(x, y, xx, yy) <= spd) {
