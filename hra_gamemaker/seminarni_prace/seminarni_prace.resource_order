@@ -56,6 +56,7 @@
     {"name":"obj_flashback3","order":2,"path":"objects/obj_flashback3/obj_flashback3.yy",},
     {"name":"obj_flashback4","order":3,"path":"objects/obj_flashback4/obj_flashback4.yy",},
     {"name":"obj_hra","order":20,"path":"objects/obj_hra/obj_hra.yy",},
+    {"name":"obj_hudba","order":27,"path":"objects/obj_hudba/obj_hudba.yy",},
     {"name":"obj_inventar","order":15,"path":"objects/obj_inventar/obj_inventar.yy",},
     {"name":"obj_klic","order":5,"path":"objects/obj_klic/obj_klic.yy",},
     {"name":"obj_kolize","order":2,"path":"objects/obj_kolize/obj_kolize.yy",},
